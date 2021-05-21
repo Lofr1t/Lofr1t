@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lofr1t.
+- 👀 I’m interested in programing web app.
+- 🌱 I’m currently learning pyhton and c++.
